@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## memory-cache
+A simple in-memory cache for node.js
+https://www.npmjs.com/package/memory-cache
+
+## Docs
+https://docs.google.com/document/d/136avAfLHDCLkj67TY81SJqgxyY991CqV3W0ALc2_-Go/edit?usp=sharing
