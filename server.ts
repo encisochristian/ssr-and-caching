@@ -50,8 +50,8 @@ app.get('*.*', express.static(DIST_FOLDER, {
 }));
 
 /**
- * Specify which pages to cache to avoid caching of non-existing pages.
- * This could potentially lead to a memory-issue on your server.
+ * Specify which pages to cache to avoid caching of non-existing pages which may potentially
+ * lead to memory-issue on our server.
  */
 const allowedPages = ['/', '/about', '/contact'];
 
